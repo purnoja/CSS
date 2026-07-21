@@ -1,0 +1,10 @@
+.Puja{
+    width:400px;
+    height:400px;
+    background-color:black;
+    
+    padding:50px 60px 80px 90px;
+}
+p{
+    color:white;
+}
