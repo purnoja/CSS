@@ -1,0 +1,14 @@
+a:hover{
+    color:black;
+    background-color:azure;
+}
+h2:nth-child(3){
+    color :blue
+}
+p::first-letter{
+    color:red;
+}
+
+h1::before{
+    content:url(img2.jpeg);
+}
